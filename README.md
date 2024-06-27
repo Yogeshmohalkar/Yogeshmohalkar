@@ -1,7 +1,6 @@
 ![logo](https://github.com/Yogeshmohalkar/Yogeshmohalkar/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yogesh Mohalkar</h1>
 <h3 align="center">"Turning Complex Data into Clear Solutions"</h3>
-<img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif">
 <img align="right" alt="coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshmohalkar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshmohalkar" /> </p>
 
