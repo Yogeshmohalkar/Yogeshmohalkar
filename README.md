@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Mohalkar</h1>
-<h3 align="center">"Analyzing Data to Drive Insights and Decisions"</h3
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Yogeshmohalkar/Yogeshmohalkar/assets/111111463/8d8eda78-59f4-402a-b051-e4471e1b4d51)
-">
-
+<h3 align="center">"Turning Complex Data into Clear Solutions"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshmohalkar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshmohalkar" /> </p>
 
@@ -10,8 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@yogeshmohalkarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yogeshmohalkarr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yogesh mohalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh mohalkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yogesh mohalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yogesh mohalkar" height="30" width="40" /></a>
+<a href="https://instagram.com/yogeshmohalkar11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogeshmohalkar11" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@yogeshmohalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yogeshmohalkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
